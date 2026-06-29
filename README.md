@@ -22,7 +22,7 @@
 ## Connect with Me
 - LinkedIn: www.linkedin.com/in/poornajain
 - Email: poornajainn@gmail.com
-- student ID- poornaa.12779@stu.upes.ac.in
+- student ID- poorna.12779@stu.upes.ac.in
 
 <!--
 **poornajain/poornajain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
